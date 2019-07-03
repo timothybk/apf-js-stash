@@ -18,7 +18,7 @@
         "reset_date": null
       }
     },
-    "community-learning-plans": {
+    "community_learning_plans": {
       "last_page": true,
       "total_count": 7,
       "learning_plans": [
